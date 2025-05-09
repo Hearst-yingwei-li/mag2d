@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="17.0">
+	<Story Self="u1ba" Guid="$ID/" VersionGuid="$ID/" AppliedOsGuid="$ID/" OsApplyOption="1" ParentComponentGuid="" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="true" StoryTitle="$ID/body" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="9.2125984251969" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.2-c000 79.1b65a79, 2022/06/13-17:46:14        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <xmp:CreateDate>2022-08-04T12:03:12+09:00</xmp:CreateDate>
+         <xmp:MetadataDate>2022-08-04T12:03:12+09:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2022-08-04T12:03:12+09:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign 15.1 (Macintosh)</xmp:CreatorTool>
+         <xmpMM:InstanceID>xmp.iid:ac1f2578-496f-415b-870b-4a1501a3da41</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:ac1f2578-496f-415b-870b-4a1501a3da41</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:ac1f2578-496f-415b-870b-4a1501a3da41</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ac1f2578-496f-415b-870b-4a1501a3da41</stEvt:instanceID>
+                  <stEvt:when>2022-08-04T12:03:12+09:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign 15.1 (Macintosh)</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/x-incopy to application/x-indesign</stEvt:parameters>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/x-incopy</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">body</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+			</Properties>
+		</MetadataPacketPreference>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="65 Medium" PointSize="7.086614173228346" KerningMethod="$ID/Optical" Tracking="30">
+				<Properties>
+					<Leading type="unit">7.086614173228346</Leading>
+					<AppliedFont type="string">Helvetica Neue LT Std</AppliedFont>
+				</Properties>
+				<Change Date="2022-08-04T12:03:12" ChangeType="InsertedText" UserName="g555" AppliedDocumentUser="dDocumentUser0">
+					<Content>DATA</Content>
+				</Change>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
