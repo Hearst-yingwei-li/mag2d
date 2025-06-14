@@ -1,0 +1,3649 @@
+[
+    {
+        "id": 1,
+        "annotations": [
+            {
+                "id": 1,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.025611191571317,
+                            "y": 6.978864451803901,
+                            "width": 3.008537063857105,
+                            "height": 16.589104024779765,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "InfoBox"
+                            ]
+                        },
+                        "id": "KtL8-QM7Ia",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.025611191571317,
+                            "y": 6.978864451803901,
+                            "width": 3.008537063857105,
+                            "height": 16.589104024779765,
+                            "rotation": 0,
+                            "text": [
+                                "写真・文=高円宮妃久子殿下"
+                            ]
+                        },
+                        "id": "KtL8-QM7Ia",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.36434204699539,
+                            "y": 74.16325300885549,
+                            "width": 15.069056167578786,
+                            "height": 16.245709270620367,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "5hfL97AoUe",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.36434204699539,
+                            "y": 74.16325300885549,
+                            "width": 15.069056167578786,
+                            "height": 16.245709270620367,
+                            "rotation": 0,
+                            "text": [
+                                "アマサギ 50・5㎝ サギ科　 分布は広く南ヨーロッパ、アフリカから インド、東南アジア、オーストラリア、 北米南部と南米で主に留鳥。 我が国では本州から九州で夏鳥、 南西諸島では冬鳥。夏羽は頭部から 胸、背にかけて、亜麻色になる。"
+                            ]
+                        },
+                        "id": "5hfL97AoUe",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 4.088483398979805,
+                            "y": 3.071977352028582,
+                            "width": 92.29102908023827,
+                            "height": 93.80234505862647,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "hEgDnQXe7N",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.53790840430899,
+                            "y": 7.295786137544093,
+                            "width": 15.463627038516826,
+                            "height": 35.50679523074524,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Title"
+                            ]
+                        },
+                        "id": "HEw-R4Vl3c",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.53790840430899,
+                            "y": 7.295786137544093,
+                            "width": 15.463627038516826,
+                            "height": 35.50679523074524,
+                            "rotation": 0,
+                            "text": [
+                                "レンズを通して 連載[十月]"
+                            ]
+                        },
+                        "id": "HEw-R4Vl3c",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.674995988634151,
+                            "y": 93.13102408051543,
+                            "width": 2.5730920305270786,
+                            "height": 1.4677298973257678,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "04BmcdA0xI",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.674995988634151,
+                            "y": 93.13102408051543,
+                            "width": 2.5730920305270786,
+                            "height": 1.4677298973257678,
+                            "rotation": 0,
+                            "text": [
+                                "023"
+                            ]
+                        },
+                        "id": "04BmcdA0xI",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "5hfL97AoUe",
+                        "to_id": "hEgDnQXe7N",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-15T13:34:22.774221Z",
+                "updated_at": "2025-05-17T02:29:52.895427Z",
+                "draft_created_at": "2025-05-15T13:02:56.478357Z",
+                "lead_time": 2286.068,
+                "prediction": {},
+                "result_count": 6,
+                "unique_id": "0467a71b-b90f-4220-a842-2a1ac1e1d3a2",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "303faba8-fg2410_023.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/303faba8-fg2410_023.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-15T12:54:08.172085Z",
+        "updated_at": "2025-05-17T02:29:53.022022Z",
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 2,
+        "annotations": [
+            {
+                "id": 2,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 86.38981349681491,
+                            "y": 7.316927084148393,
+                            "width": 4.002996030348569,
+                            "height": 21.95078125244518,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Title"
+                            ]
+                        },
+                        "id": "OFh3oIKn4j",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 82.74263933583067,
+                            "y": 7.032774576026125,
+                            "width": 2.4017976182091303,
+                            "height": 15.55734981969416,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "InfoBox"
+                            ]
+                        },
+                        "id": "NCbqU7J05D",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 31.593245614710234,
+                            "y": 27.4917551608294,
+                            "width": 40.830559509555265,
+                            "height": 23.442581920087093,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "mD-Zy6hh7A",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 17.983059111525144,
+                            "y": 27.562793287859964,
+                            "width": 12.898542764456458,
+                            "height": 19.322370552314208,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "UGnPNzUVDV",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.554879070603475,
+                            "y": 6.864456837839904,
+                            "width": 69.41775995826136,
+                            "height": 18.409225156025197,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "EThA07yYIr",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.164159971401252,
+                            "y": 53.251543954151984,
+                            "width": 77.49262134177394,
+                            "height": 38.48256106061763,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "fSwl9vkm_r",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.8254288959967,
+                            "y": 93.24844247230149,
+                            "width": 2.3525412850533343,
+                            "height": 1.2328931137536472,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "dZ1zRq7I_l",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.8254288959967,
+                            "y": 93.24844247230149,
+                            "width": 2.3525412850533343,
+                            "height": 1.2328931137536472,
+                            "rotation": 0,
+                            "text": [
+                                "024"
+                            ]
+                        },
+                        "id": "dZ1zRq7I_l",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "mD-Zy6hh7A",
+                        "to_id": "UGnPNzUVDV",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-15T14:33:58.258893Z",
+                "updated_at": "2025-05-17T02:30:20.710775Z",
+                "draft_created_at": "2025-05-15T14:25:29.479135Z",
+                "lead_time": 606.8879999999999,
+                "prediction": {},
+                "result_count": 8,
+                "unique_id": "df5ff5d9-5ceb-4fc4-b21f-119c443851fc",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 2,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "651d17ed-fg2410_024.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/651d17ed-fg2410_024.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-15T13:35:06.566685Z",
+        "updated_at": "2025-05-17T02:30:20.860575Z",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 3,
+        "annotations": [
+            {
+                "id": 3,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 3.891190039004897,
+                            "y": 3.057395574176552,
+                            "width": 91.06592878729177,
+                            "height": 46.563898883347335,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "cStU-vU8DP",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 4.027667662958315,
+                            "y": 50.5910468948801,
+                            "width": 45.070750489973605,
+                            "height": 24.16288806919645,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "IgvwdivtNq",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 50.83190855639245,
+                            "y": 50.59104689488003,
+                            "width": 44.125210269904194,
+                            "height": 46.31597758388745,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "zoWmmcXbIa",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.385728910018079,
+                            "y": 7.4250541462634985,
+                            "width": 11.188892604154292,
+                            "height": 23.407797817034083,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "qNo5GlcCKx",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.429279538154377,
+                            "y": 75.91807493663781,
+                            "width": 16.901538794805013,
+                            "height": 14.562816041266217,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "--347jAOmd",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 33.358300252904634,
+                            "y": 75.98911306366838,
+                            "width": 16.5457169254407,
+                            "height": 15.557349819694153,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "CxL-3GFaSC",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "qNo5GlcCKx",
+                        "to_id": "cStU-vU8DP",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    },
+                    {
+                        "from_id": "--347jAOmd",
+                        "to_id": "IgvwdivtNq",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    },
+                    {
+                        "from_id": "CxL-3GFaSC",
+                        "to_id": "zoWmmcXbIa",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-15T14:52:23.283632Z",
+                "updated_at": "2025-05-16T16:04:17.174223Z",
+                "draft_created_at": "2025-05-15T14:43:15.342894Z",
+                "lead_time": 604.4780000000001,
+                "prediction": {},
+                "result_count": 7,
+                "unique_id": "14b516b2-7bf5-45c0-a684-c70228c522a3",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 3,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "f049ece3-fg2410_025.jpg",
+        "drafts": [
+            {
+                "id": 20,
+                "user": "yingwei.li@hearst.co.jp",
+                "created_username": "yingwei.li@hearst.co.jp, 1",
+                "created_ago": "6 minutes",
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 3.891190039004897,
+                            "y": 3.057395574176552,
+                            "width": 91.06592878729177,
+                            "height": 46.563898883347335,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "cStU-vU8DP",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 4.027667662958315,
+                            "y": 50.5910468948801,
+                            "width": 45.070750489973605,
+                            "height": 24.16288806919645,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "IgvwdivtNq",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 50.83190855639245,
+                            "y": 50.59104689488003,
+                            "width": 44.125210269904194,
+                            "height": 46.31597758388745,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "zoWmmcXbIa",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.385728910018079,
+                            "y": 7.4250541462634985,
+                            "width": 11.188892604154292,
+                            "height": 23.407797817034083,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "qNo5GlcCKx",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.429279538154377,
+                            "y": 75.91807493663781,
+                            "width": 16.901538794805013,
+                            "height": 14.562816041266217,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "--347jAOmd",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 33.358300252904634,
+                            "y": 75.98911306366838,
+                            "width": 16.5457169254407,
+                            "height": 15.557349819694153,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "CxL-3GFaSC",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.947964128912453,
+                            "y": 93.33952773865694,
+                            "width": 2.0989051660411935,
+                            "height": 1.0586181077631238,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "pKW0CH8P3J",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.947964128912453,
+                            "y": 93.33952773865694,
+                            "width": 2.0989051660411935,
+                            "height": 1.0586181077631238,
+                            "rotation": 0,
+                            "text": [
+                                "025"
+                            ]
+                        },
+                        "id": "pKW0CH8P3J",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "qNo5GlcCKx",
+                        "to_id": "cStU-vU8DP",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    },
+                    {
+                        "from_id": "--347jAOmd",
+                        "to_id": "IgvwdivtNq",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    },
+                    {
+                        "from_id": "CxL-3GFaSC",
+                        "to_id": "zoWmmcXbIa",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    }
+                ],
+                "lead_time": 30.574,
+                "was_postponed": false,
+                "import_id": null,
+                "created_at": "2025-05-17T02:30:33.039581Z",
+                "updated_at": "2025-05-17T02:30:54.009935Z",
+                "task": 3,
+                "annotation": 3
+            }
+        ],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/f049ece3-fg2410_025.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-15T13:35:06.566685Z",
+        "updated_at": "2025-05-16T16:04:17.324138Z",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 7,
+        "annotations": [
+            {
+                "id": 4,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 19.92647218777872,
+                            "y": 3.015075376884422,
+                            "width": 74.6718326194655,
+                            "height": 93.80234505862647,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "jACE5jnLK0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.690866088998087,
+                            "y": 4.803479663975223,
+                            "width": 15.973220657038231,
+                            "height": 14.250323003126494,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Title"
+                            ]
+                        },
+                        "id": "HcEGSEkCgG",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.690866088998087,
+                            "y": 4.803479663975223,
+                            "width": 15.973220657038231,
+                            "height": 14.250323003126494,
+                            "rotation": 0,
+                            "text": [
+                                "a\\npiece\\nof\\npeace\\n心に咲くモード"
+                            ]
+                        },
+                        "id": "HcEGSEkCgG",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.490365411294679,
+                            "y": 20.33473057749511,
+                            "width": 15.57221930163141,
+                            "height": 16.705434831380497,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "5mJmJyZDcg",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.490365411294679,
+                            "y": 20.33473057749511,
+                            "width": 15.57221930163141,
+                            "height": 16.705434831380497,
+                            "rotation": 0,
+                            "text": [
+                                "心を豊かにうるおす、旬のモード。 過ごしやすくのどかな秋麗の候は、 暖かな素材が恋しくなります。 実用的で華やぎをまとった 上質のニットウェアは、 バカンスシーズンを終え、 落ち着きを取り戻した保養地への 小旅行にもぴったり。 風が心地よい海辺では、 映画のワンシーンのように ニットの存在感が際立ちます。"
+                            ]
+                        },
+                        "id": "5mJmJyZDcg",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.490365411294679,
+                            "y": 41.73690108031805,
+                            "width": 15.77271997933482,
+                            "height": 5.230455634106349,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "w_fv9VKhiL",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.490365411294679,
+                            "y": 41.73690108031805,
+                            "width": 15.77271997933482,
+                            "height": 5.230455634106349,
+                            "rotation": 0,
+                            "text": [
+                                "vol.7\\nOctober\\n［秋麗のニット］"
+                            ]
+                        },
+                        "id": "w_fv9VKhiL",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.55719897052915,
+                            "y": 48.65460097795569,
+                            "width": 14.04173079516206,
+                            "height": 6.105756372875177,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "InfoBox"
+                            ]
+                        },
+                        "id": "edZWSUQhkw",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.55719897052915,
+                            "y": 48.65460097795569,
+                            "width": 14.04173079516206,
+                            "height": 6.105756372875177,
+                            "rotation": 0,
+                            "text": [
+                                "撮影＝Mai Kise\\nモデル=国木田彩良\\nスタイリング=伊藤美佐季\\nヘア＆メイク=岩田美香（mod's hair）\\n文=喜多川美穂\\n編集=富澤幸子（本誌）"
+                            ]
+                        },
+                        "id": "edZWSUQhkw",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.577377309798333,
+                            "y": 67.67638044729757,
+                            "width": 14.16858628620872,
+                            "height": 23.718515140784326,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "AJGOJDooW-",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.577377309798333,
+                            "y": 67.67638044729757,
+                            "width": 14.16858628620872,
+                            "height": 23.718515140784326,
+                            "rotation": 0,
+                            "text": [
+                                "Bottega Veneta\\n洗練された中間色で魅了するダイヤ柄のぬくもり\\n「ボッテガ･ヴェネタ」が創業した1960年代後半から1970年代のムードにインスパイアされたプレフォールコレクションより。タートルネックのセーターは、ウールの紡績糸で編んだ大きなダイヤ柄と穏やかなメランジュカラーのコントラストが魅力。トレンドのゆったりとリラックス感のある着心地も快適。トップス同様に中間色トーンでまとめたスカートは、シェットランドウール糸を用いたツイード風のニット素材。編み込まれたダイヤ柄とアシンメトリーな裾のラインが目を引く。どこか懐かしい雰囲気を湛えたニットのコーディネートが、秋の散歩を豊かな時間に変えてくれる。セー ター／423,500円　スカート／423,500円　ピアス／174,900円（すべてボッテガ・ヴェネタ／ボッテガ・ヴェネタ ジャパン）"
+                            ]
+                        },
+                        "id": "AJGOJDooW-",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.887574216513716,
+                            "y": 93.17570394482807,
+                            "width": 2.145466350672814,
+                            "height": 1.3123364972270224,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "hlCb1HDyx_",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.887574216513716,
+                            "y": 93.17570394482807,
+                            "width": 2.145466350672814,
+                            "height": 1.3123364972270224,
+                            "rotation": 0,
+                            "text": [
+                                "031"
+                            ]
+                        },
+                        "id": "hlCb1HDyx_",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-16T14:42:54.045440Z",
+                "updated_at": "2025-05-17T02:31:21.805243Z",
+                "draft_created_at": "2025-05-16T12:53:07.666188Z",
+                "lead_time": 6531.501,
+                "prediction": {},
+                "result_count": 7,
+                "unique_id": "4aadc185-6566-47a0-81ed-b697bfb24600",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 7,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "a3e3bb6d-fg2410_031.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/a3e3bb6d-fg2410_031.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T12:51:09.118830Z",
+        "updated_at": "2025-05-17T02:31:21.907106Z",
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 8,
+        "annotations": [
+            {
+                "id": 5,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 5.03405613164936,
+                            "y": 3.0464100524959346,
+                            "width": 90.82276270850721,
+                            "height": 93.80234505862647,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "WTLVPePOAe",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 76.25524562358017,
+                            "y": 68.67506907058707,
+                            "width": 14.302381676176495,
+                            "height": 22.73647040948272,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "K2Msa3chNi",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 76.25524562358017,
+                            "y": 68.67506907058707,
+                            "width": 14.302381676176495,
+                            "height": 22.73647040948272,
+                            "rotation": 0,
+                            "text": [
+                                "Loewe\\n個性豊かな手編みニットと 彫刻的ジュエリーの出合い\\nアルパカ、ウール、アクリルなどをブレンドした手編みのニットは、泡のようなポンポンが愛らしいアクセント。ミックスヤーンがもたらす奥行きのあるパープル色も魅力。フィット感のあるクロップド丈なのでボトムとのバランスが取りやすく、存在感のあるニットならではのシンプルなスカートやパンツとのコーディネートも様になる。さらにアーティな華やかさを添えるのが、「ロエベ」とアーティストのリンダ･ベングリスがコラボレートしたスターリングシルバーのピアス。ハンドメイドのニットのトップスと、“身に着ける彫刻”ジュエリーの相乗効果で唯一無二の表情に。セーター／180,400円　ピアス／210,100円（ともにロエベ／ロエベ ジャパン）"
+                            ]
+                        },
+                        "id": "K2Msa3chNi",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.75981049238466,
+                            "y": 93.15868047858072,
+                            "width": 2.491069026012056,
+                            "height": 1.164479918539456,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "6pE3UOV8ro",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.75981049238466,
+                            "y": 93.15868047858072,
+                            "width": 2.491069026012056,
+                            "height": 1.164479918539456,
+                            "rotation": 0,
+                            "text": [
+                                "032"
+                            ]
+                        },
+                        "id": "6pE3UOV8ro",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-16T14:48:38.927454Z",
+                "updated_at": "2025-05-17T02:32:31.103623Z",
+                "draft_created_at": "2025-05-16T14:43:16.251038Z",
+                "lead_time": 405.152,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "aa760d57-0da7-414d-9af3-8e8f1ba5e0f2",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 8,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "207699a1-fg2410_032.jpg",
+        "drafts": [
+            {
+                "id": 15,
+                "user": "yingwei.li@hearst.co.jp",
+                "created_username": "yingwei.li@hearst.co.jp, 1",
+                "created_ago": "10 hours, 31 minutes",
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 19.92647218777872,
+                            "y": 3.015075376884422,
+                            "width": 74.6718326194655,
+                            "height": 93.80234505862647,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "jACE5jnLK0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.690866088998087,
+                            "y": 4.803479663975223,
+                            "width": 15.973220657038231,
+                            "height": 14.250323003126494,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Title"
+                            ]
+                        },
+                        "id": "HcEGSEkCgG",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.690866088998087,
+                            "y": 4.803479663975223,
+                            "width": 15.973220657038231,
+                            "height": 14.250323003126494,
+                            "rotation": 0,
+                            "text": [
+                                "a\\npiece\\nof\\npeace\\n心に咲くモード"
+                            ]
+                        },
+                        "id": "HcEGSEkCgG",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.490365411294679,
+                            "y": 20.33473057749511,
+                            "width": 15.57221930163141,
+                            "height": 16.705434831380497,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "5mJmJyZDcg",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.490365411294679,
+                            "y": 20.33473057749511,
+                            "width": 15.57221930163141,
+                            "height": 16.705434831380497,
+                            "rotation": 0,
+                            "text": [
+                                "心を豊かにうるおす、旬のモード。 過ごしやすくのどかな秋麗の候は、 暖かな素材が恋しくなります。 実用的で華やぎをまとった 上質のニットウェアは、 バカンスシーズンを終え、 落ち着きを取り戻した保養地への 小旅行にもぴったり。 風が心地よい海辺では、 映画のワンシーンのように ニットの存在感が際立ちます。"
+                            ]
+                        },
+                        "id": "5mJmJyZDcg",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.490365411294679,
+                            "y": 41.73690108031805,
+                            "width": 15.77271997933482,
+                            "height": 5.230455634106349,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "w_fv9VKhiL",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.490365411294679,
+                            "y": 41.73690108031805,
+                            "width": 15.77271997933482,
+                            "height": 5.230455634106349,
+                            "rotation": 0,
+                            "text": [
+                                "vol.7\\nOctober\\n［秋麗のニット］"
+                            ]
+                        },
+                        "id": "w_fv9VKhiL",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.55719897052915,
+                            "y": 48.65460097795569,
+                            "width": 14.04173079516206,
+                            "height": 6.105756372875177,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "InfoBox"
+                            ]
+                        },
+                        "id": "edZWSUQhkw",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.55719897052915,
+                            "y": 48.65460097795569,
+                            "width": 14.04173079516206,
+                            "height": 6.105756372875177,
+                            "rotation": 0,
+                            "text": [
+                                "撮影＝Mai Kise\\nモデル=国木田彩良\\nスタイリング=伊藤美佐季\\nヘア＆メイク=岩田美香（mod's hair）\\n文=喜多川美穂\\n編集=富澤幸子（本誌）"
+                            ]
+                        },
+                        "id": "edZWSUQhkw",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.577377309798333,
+                            "y": 67.67638044729757,
+                            "width": 14.16858628620872,
+                            "height": 23.718515140784326,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "AJGOJDooW-",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.577377309798333,
+                            "y": 67.67638044729757,
+                            "width": 14.16858628620872,
+                            "height": 23.718515140784326,
+                            "rotation": 0,
+                            "text": [
+                                "Bottega Veneta\\n洗練された中間色で魅了するダイヤ柄のぬくもり\\n「ボッテガ･ヴェネタ」が創業した1960年代後半から1970年代のムードにインスパイアされたプレフォールコレクションより。タートルネックのセーターは、ウールの紡績糸で編んだ大きなダイヤ柄と穏やかなメランジュカラーのコントラストが魅力。トレンドのゆったりとリラックス感のある着心地も快適。トップス同様に中間色トーンでまとめたスカートは、シェットランドウール糸を用いたツイード風のニット素材。編み込まれたダイヤ柄とアシンメトリーな裾のラインが目を引く。どこか懐かしい雰囲気を湛えたニットのコーディネートが、秋の散歩を豊かな時間に変えてくれる。セー ター／423,500円　スカート／423,500円　ピアス／174,900円（すべてボッテガ・ヴェネタ／ボッテガ・ヴェネタ ジャパン）"
+                            ]
+                        },
+                        "id": "AJGOJDooW-",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "lead_time": 63.053,
+                "was_postponed": false,
+                "import_id": null,
+                "created_at": "2025-05-16T16:05:39.039063Z",
+                "updated_at": "2025-05-16T16:05:39.039063Z",
+                "task": 8,
+                "annotation": 4
+            }
+        ],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/207699a1-fg2410_032.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T12:51:09.118830Z",
+        "updated_at": "2025-05-17T02:32:31.203493Z",
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 9,
+        "annotations": [
+            {
+                "id": 6,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 4.0113827518094745,
+                            "y": 18.48070235291845,
+                            "width": 90.82916659454308,
+                            "height": 48.73764354866331,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "Tjg7wQ-zBd",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.607190472836534,
+                            "y": 68.72637137648442,
+                            "width": 14.143919307231565,
+                            "height": 22.73220064978142,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "nIsaEn5GN-",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.607190472836534,
+                            "y": 68.72637137648442,
+                            "width": 14.143919307231565,
+                            "height": 22.73220064978142,
+                            "rotation": 0,
+                            "text": [
+                                "Ferragamo\\nスリーピース感覚で味わう、 大人のニットスタイル\\n「フェラガモ」の秋冬コレクションは、それまでの社会的慣習から解放された1920年代における自由な衣服の表現をモダンに再解釈。アルパカやシルク、カシミヤなどふくよかな混紡素材が織りなすニュアンスに富んだニットが、成熟した大人の情趣を漂わせている。深く開けたVネックがセンシュアルなベストにゆとりのあるカーディガンをさらりと羽織り、アシンメトリーなヘムラインを描くスカートをコーディネート。流れるようなシルエットに仕上がった。秋らしいアースカラーのワントーンと、同素材のスリーピースでまとめた優雅さがおしゃれ心を誘う。カーディガン／264,000円　ベスト／187,000円　スカート／275,000円（すべてフェラガモ／フェラガモ・ジャパン）"
+                            ]
+                        },
+                        "id": "nIsaEn5GN-",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.36434204699539,
+                            "y": 4.985455755005187,
+                            "width": 18.190503516577248,
+                            "height": 2.1489033426746493,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "MrQxIyLUNJ",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 9.36434204699539,
+                            "y": 4.985455755005187,
+                            "width": 18.190503516577248,
+                            "height": 2.1489033426746493,
+                            "rotation": 0,
+                            "text": [
+                                "a piece of peace "
+                            ]
+                        },
+                        "id": "MrQxIyLUNJ",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.837495435962918,
+                            "y": 93.30343848498319,
+                            "width": 2.360012985740097,
+                            "height": 1.0425784394636821,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "0DmueNabSD",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.837495435962918,
+                            "y": 93.30343848498319,
+                            "width": 2.360012985740097,
+                            "height": 1.0425784394636821,
+                            "rotation": 0,
+                            "text": [
+                                "033"
+                            ]
+                        },
+                        "id": "0DmueNabSD",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-16T14:50:28.130582Z",
+                "updated_at": "2025-05-17T02:33:00.592056Z",
+                "draft_created_at": "2025-05-16T14:49:09.299695Z",
+                "lead_time": 189.23699999999997,
+                "prediction": {},
+                "result_count": 4,
+                "unique_id": "9c5a6360-a7f4-40f3-aa33-e20c69267790",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 9,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "ef23a6ec-fg2410_033.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/ef23a6ec-fg2410_033.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T12:51:09.118830Z",
+        "updated_at": "2025-05-17T02:33:00.794296Z",
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 10,
+        "annotations": [
+            {
+                "id": 7,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 76.30446536232442,
+                            "y": 65.82294861125142,
+                            "width": 14.156563001483107,
+                            "height": 24.939278255386526,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "YTR2KGCf6D",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 76.30446536232442,
+                            "y": 65.82294861125142,
+                            "width": 14.156563001483107,
+                            "height": 24.939278255386526,
+                            "rotation": 0,
+                            "text": [
+                                "Jil Sander\\nドレスライクに装う、 ラグジュアリーニット\\n\\n「ジル サンダー」のルーシー＆ルーク･メイヤーがプレフォールコレクションで掘り下げたのは、最高峰の技術とクチュールの美学。なかでも心地よさと官能性を追求し、素材も形も贅沢を極めたニットは注目のアイテム。ラムウールとカシミヤを混紡したロングカーディガンは、ノンシャランな気分とドレッシーなムードの両方を併せもつ。袖に腕を通しても、ホールに腕を通してケープ風にも着こなせるデザイン。フロントのボタン、袖口や裾などに配したリブ編みが絶妙なアクセントに。レインストームと名付けられた雨の跡を思わせるグレイッシュカラーに胸元にあしらわれたシルバージュエリーがクール。カーディガン／657,800円　リング／86,900円（ともにジル サンダー バイ ルーシー アンド ルーク・メイヤー／ジルサンダージャパン）"
+                            ]
+                        },
+                        "id": "YTR2KGCf6D",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 65.91488479042036,
+                            "y": 91.19890683609022,
+                            "width": 24.485385792264733,
+                            "height": 1.4070799015684825,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "1iMI4FHEav",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 65.91488479042036,
+                            "y": 91.19890683609022,
+                            "width": 24.485385792264733,
+                            "height": 1.4070799015684825,
+                            "rotation": 0,
+                            "text": [
+                                "● 掲載商品のお問い合わせ先は、P245をご覧ください。"
+                            ]
+                        },
+                        "id": "1iMI4FHEav",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 5.03405613164936,
+                            "y": 3.015075376884422,
+                            "width": 90.82276270850721,
+                            "height": 93.80234505862647,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "7BadRBJJp4",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 72.24589418958334,
+                            "y": 5.2568214002619555,
+                            "width": 18.05795987023904,
+                            "height": 1.6338769217030376,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "C5ubHNjSdm",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 72.24589418958334,
+                            "y": 5.2568214002619555,
+                            "width": 18.05795987023904,
+                            "height": 1.6338769217030376,
+                            "rotation": 0,
+                            "text": [
+                                "a piece of peace "
+                            ]
+                        },
+                        "id": "C5ubHNjSdm",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.89159030955389,
+                            "y": 93.1630913873631,
+                            "width": 2.209373858990716,
+                            "height": 1.2791635468804543,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "LlPuJhOG-P",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.89159030955389,
+                            "y": 93.1630913873631,
+                            "width": 2.209373858990716,
+                            "height": 1.2791635468804543,
+                            "rotation": 0,
+                            "text": [
+                                "034"
+                            ]
+                        },
+                        "id": "LlPuJhOG-P",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-16T14:58:20.417362Z",
+                "updated_at": "2025-05-17T02:33:29.994529Z",
+                "draft_created_at": "2025-05-16T14:51:18.836371Z",
+                "lead_time": 401.457,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "b9c3eb62-7f50-4e54-99f1-9b364098551d",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 10,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "66887fd0-fg2410_034.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/66887fd0-fg2410_034.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T12:51:09.118830Z",
+        "updated_at": "2025-05-17T02:33:30.113092Z",
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 11,
+        "annotations": [
+            {
+                "id": 10,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 13.85642769055063,
+                            "y": 10.830472847080234,
+                            "width": 27.339573332607223,
+                            "height": 18.050788078467058,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "M-H1dlcocL",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 13.85642769055063,
+                            "y": 10.830472847080234,
+                            "width": 27.339573332607223,
+                            "height": 18.050788078467058,
+                            "rotation": 0,
+                            "text": [
+                                "二〇二四年\\n茸の秋鱧寄せ\\n汁物にする際は、透き通った出汁で味わうことが多い松茸を、白濁した出汁と合わせることで、ふくよかな香りを際立たせたベースの出汁は、昆布、鱧の骨、茸を使用。それに太白胡麻油や醬油、すだちを加えて乳化させ、まろやかな風味と口当たりに。夏に比べて脂がよくのった秋鱧を真薯にして合わせると、松茸、しめじ、舞茸の歯応えがより引き立つ。骨董店で求めたという菊文の漆椀から\\n秋の風情が漂ってくる。"
+                            ]
+                        },
+                        "id": "M-H1dlcocL",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 3.985294437555744,
+                            "y": 3.015075376884422,
+                            "width": 91.87152440260084,
+                            "height": 93.80234505862647,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "u4qWuSY4V9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.764966206375977,
+                            "y": 93.34447791533313,
+                            "width": 2.264608205465498,
+                            "height": 0.9703999321162229,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "pV30sGLmKv",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.764966206375977,
+                            "y": 93.34447791533313,
+                            "width": 2.264608205465498,
+                            "height": 0.9703999321162229,
+                            "rotation": 0,
+                            "text": [
+                                "039"
+                            ]
+                        },
+                        "id": "pV30sGLmKv",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-16T15:54:05.014690Z",
+                "updated_at": "2025-05-17T02:33:56.467167Z",
+                "draft_created_at": "2025-05-16T15:48:09.071188Z",
+                "lead_time": 533.418,
+                "prediction": {},
+                "result_count": 3,
+                "unique_id": "e4fc223a-a85f-4e3e-acee-8eec6df443d1",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 11,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "60de6de1-fg2410_039.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/60de6de1-fg2410_039.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T14:59:16.915072Z",
+        "updated_at": "2025-05-17T02:33:56.633190Z",
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 12,
+        "annotations": [
+            {
+                "id": 11,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 24.769545803226674,
+                            "y": 60.3450220686534,
+                            "width": 45.59857255903712,
+                            "height": 24.69285295582507,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "rh2432Okzz",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 72.60171605894766,
+                            "y": 63.28282745195841,
+                            "width": 17.613182533533646,
+                            "height": 25.076458841790114,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "DiM_s9_zre",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 72.60171605894766,
+                            "y": 63.28282745195841,
+                            "width": 17.613182533533646,
+                            "height": 25.076458841790114,
+                            "rotation": 0,
+                            "text": [
+                                "季節の料理\\n合鴨のバルサミコ酢醬油 鍬焼き\\n豊臣秀吉が合鴨飼育を奨励していたという説が残るほど、 鴨は大阪で古くから好んで食されている。鍬焼きは その代表的な料理で、今回は醬油とバルサミコ酢のソースに ぶどうと栗を加えた。秋らしい甘みによって鴨や真菰の旨みが 強調される。最後に清涼感のあるレモンバームの葉を添えた。"
+                            ]
+                        },
+                        "id": "DiM_s9_zre",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 82.59524012644648,
+                            "y": 10.915234909492222,
+                            "width": 4.499189627177088,
+                            "height": 44.43932112651176,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Title"
+                            ]
+                        },
+                        "id": "rtJ3Jde4yr",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 82.59524012644648,
+                            "y": 10.915234909492222,
+                            "width": 4.499189627177088,
+                            "height": 44.43932112651176,
+                            "rotation": 0,
+                            "text": [
+                                "大阪の商いは“飽きない”お付き合い"
+                            ]
+                        },
+                        "id": "rtJ3Jde4yr",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 79.99044613176501,
+                            "y": 10.820683162414538,
+                            "width": 1.8943956324956162,
+                            "height": 8.036898501603192,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "InfoBox"
+                            ]
+                        },
+                        "id": "7RHlr5QCfY",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 79.99044613176501,
+                            "y": 10.820683162414538,
+                            "width": 1.8943956324956162,
+                            "height": 8.036898501603192,
+                            "rotation": 0,
+                            "text": [
+                                "文＝上野修三"
+                            ]
+                        },
+                        "id": "7RHlr5QCfY",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 15.3759199272501,
+                            "y": 10.726131415336855,
+                            "width": 59.87853712327586,
+                            "height": 20.234073874624507,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "ir2nHo8oqJ",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 15.3759199272501,
+                            "y": 10.726131415336855,
+                            "width": 59.87853712327586,
+                            "height": 20.234073874624507,
+                            "rotation": 0,
+                            "text": [
+                                "神々が出雲大社に集まり、諸国の神は居わさぬといって、十月は“神無月”とも言われるけど、否々、実りの秋でっせ。秋の実りは天の恵み、神に感謝する季節やというから、御留守なんてわけはない。実は、無は「の」の音変化であって、神無月は“神の月”、つまり神を祀る月の意味やという説もおますさかい、私は後説に手を挙げますな。 \\nここで、どこで読んだかは忘れてしもたけど、古いノートに書き抜いてあったものを……。「『商い』とは、黄熟の実果をもって我が求める物と交換に行く『行商』に始まった。いわば『黄熟行人』とも呼ぶことができ、天の理であるから、天道に従うべきである。生きとせ生きるものすべてに平等である」。商いは秤。即ち商いは売り手、買い手がともに喜べること、洒落やないけど“飽きないお付き合い”こそがほんまの商いという訳ですなぁ。 \\nそこで、料理という商いを考えてみまひょ。先ずは「料理屋」ってなんや？ 「客の注文によって料理を作って供する店」と辞書にはある。「料理屋を筆頭に、待合・酒場・バーなど遊興させる店を水商売という」とあるが、異議あり！ 料理屋は遊興目的にやるのやおまへん。酒場ではなく、あく"
+                            ]
+                        },
+                        "id": "ir2nHo8oqJ",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 29.270545835901363,
+                            "y": 33.682145422031596,
+                            "width": 45.98997661533785,
+                            "height": 20.316904330742133,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "JkU0CJeHb0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 29.270545835901363,
+                            "y": 33.682145422031596,
+                            "width": 45.98997661533785,
+                            "height": 20.316904330742133,
+                            "rotation": 0,
+                            "text": [
+                                "まで“食主飲従”で、食を進めるための潤滑油的な場所であってほしいものです。 　季は恵みの秋山の幸。かつて大阪商人は、お得意さまを能勢や河内＊１の松茸狩りに、その商いの規模によっては家族まで招待したといわれます。その都度災難を被るのが河内地鶏の黄鶏＊２。そう、山の上で松茸と鋤焼きにされる運命です。そしてお茶用の土瓶に谷川の水、少しの鶏肉と松茸やしめじのお吸いもんを入れる。これがいまの土瓶蒸しの初めやとか。それでも山のてっぺんでいただくのはおいしいものです。これを料理屋では鱧やら小海老まで加えて……\\nまた三段に分かれる大きな徳利＊３に、下段は土瓶蒸しの種に白身魚を加えて蒸し汁たっぷりの熱々を、中段には薬味を、上段にはポン酢醬油を加えて食べる「徳利蒸し」なる料理がありました。また徳利の代わりに蓋のある鉢で蒸した「ちり蒸し」。そんな味も実りの季節の人気料理でしたなぁ。"
+                            ]
+                        },
+                        "id": "JkU0CJeHb0",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 15.571403865375189,
+                            "y": 33.682145422031596,
+                            "width": 8.023783154165333,
+                            "height": 20.316904330742133,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "4mI24Cdcx7",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 15.571403865375189,
+                            "y": 33.682145422031596,
+                            "width": 8.023783154165333,
+                            "height": 20.316904330742133,
+                            "rotation": 0,
+                            "text": [
+                                "＊１能勢は大阪北部にある山間部の地域。河内は大阪南部の地域のこと。いずれもかつては松茸が多く採れる産地として知られた。\\n＊2かつて河内地方で育てられる地鶏は美味として知られたというが、いまはもうほぼ出回ることはないという。\\n＊3P38の「徳利蒸し」に使われている器。"
+                            ]
+                        },
+                        "id": "4mI24Cdcx7",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.564210754340273,
+                            "y": 63.29373323039381,
+                            "width": 11.564210754340273,
+                            "height": 14.724266329972053,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "GnYYJ76nx0",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.564210754340273,
+                            "y": 63.29373323039381,
+                            "width": 11.564210754340273,
+                            "height": 14.724266329972053,
+                            "rotation": 0,
+                            "text": [
+                                "うえのおさむ◦1９６１年生まれ。19歳で「㐂川」に入店後、志摩観光ホテルのフランス料理店「ラ・メール」でも経験を積む。34歳で代を受け継ぎ、2代目として暖簾を守る。\\nうえのしゅうぞう◦1935年生まれ。16歳で料理の道に入り、30歳で「㐂川」を創業。長きにわたり料理人として活躍する傍ら、大阪に根付く料理の研究家としても知られる。"
+                            ]
+                        },
+                        "id": "GnYYJ76nx0",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.483342147666566,
+                            "y": 81.11784510351788,
+                            "width": 9.380758374150151,
+                            "height": 10.397398592655719,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "InfoBox"
+                            ]
+                        },
+                        "id": "Rf48Fo6_y-",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.483342147666566,
+                            "y": 81.11784510351788,
+                            "width": 9.380758374150151,
+                            "height": 10.397398592655719,
+                            "rotation": 0,
+                            "text": [
+                                "㐂川\\n大阪府大阪市中央区 道頓堀1―7―7 \\n☎0‌6―6211―3030\\n12時～14時、17時～22時　\\n㊡月曜"
+                            ]
+                        },
+                        "id": "Rf48Fo6_y-",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.90291766279655,
+                            "y": 93.18804578453226,
+                            "width": 2.2093738589907446,
+                            "height": 1.2029751224581133,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "dSFxmIIAOi",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.90291766279655,
+                            "y": 93.18804578453226,
+                            "width": 2.2093738589907446,
+                            "height": 1.2029751224581133,
+                            "rotation": 0,
+                            "text": [
+                                "040"
+                            ]
+                        },
+                        "id": "dSFxmIIAOi",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "rh2432Okzz",
+                        "to_id": "DiM_s9_zre",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-16T16:21:19.983079Z",
+                "updated_at": "2025-05-17T02:34:28.818561Z",
+                "draft_created_at": "2025-05-16T16:02:08.192315Z",
+                "lead_time": 979.911,
+                "prediction": {},
+                "result_count": 11,
+                "unique_id": "199aff74-c806-4acf-9878-7a680795a346",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 12,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "80243c81-fg2410_040.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/80243c81-fg2410_040.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T14:59:16.915072Z",
+        "updated_at": "2025-05-17T02:34:28.935416Z",
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 13,
+        "annotations": [
+            {
+                "id": 12,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 81.89668173696376,
+                            "y": 6.881173884614067,
+                            "width": 10.679655378194031,
+                            "height": 54.81164778093377,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Title"
+                            ]
+                        },
+                        "id": "FXFfIlIMJz",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 81.89668173696376,
+                            "y": 6.881173884614067,
+                            "width": 10.679655378194031,
+                            "height": 54.81164778093377,
+                            "rotation": 0,
+                            "text": [
+                                "心象ギャラリー　内田也哉子 第2回"
+                            ]
+                        },
+                        "id": "FXFfIlIMJz",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 62.36072677685268,
+                            "y": 16.657824532446654,
+                            "width": 3.125752793617771,
+                            "height": 8.216546821050795,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "YBRkq5s3zl",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 62.36072677685268,
+                            "y": 16.657824532446654,
+                            "width": 3.125752793617771,
+                            "height": 8.216546821050795,
+                            "rotation": 0,
+                            "text": [
+                                "Yes"
+                            ]
+                        },
+                        "id": "YBRkq5s3zl",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.504248853337181,
+                            "y": 16.320650457911086,
+                            "width": 47.7307251298977,
+                            "height": 21.242565353411642,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "rq9YCjm6zq",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.504248853337181,
+                            "y": 16.320650457911086,
+                            "width": 47.7307251298977,
+                            "height": 21.242565353411642,
+                            "rotation": 0,
+                            "text": [
+                                "「新婚旅行でニューヨークへ行くなら、洋子さんに挨拶してこい」 \\nいつだって突拍子もない言動で私を戸惑わせてきた父が、結婚したばかりの19歳の私と29歳の夫に向かって、当たり前のことのように言い放った。1966年、父はロック歌手としてビートルズ日本公演で前座を務め、その後、現代音楽とアートの蜜月期にジョン・ レノンとヨーコ・オノ夫妻とは折に触れ交流をしてきた。 だからといって、父と一度も暮らしたことのない娘の私が「このたび私たち夫婦になりました」と会ったこともない知人へ報告しに行くというのは、お門違いというもの。けれど言い出したら止まらない父は、あのダコタハウスに住まう小野洋子さん直通の電話番号を私に託した。私たちのハネムーンは、米国を東から西へ横断する旅だった。 出発地のニューヨークに入り、半信半疑で電話をかけると、特徴的な声の主はまさしく洋子さんだった。慌てて自己紹介"
+                            ]
+                        },
+                        "id": "rq9YCjm6zq",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.44162743907335,
+                            "y": 39.67429700432348,
+                            "width": 47.793346544161544,
+                            "height": 21.246857993687755,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "tgoIN3fOQB",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.44162743907335,
+                            "y": 39.67429700432348,
+                            "width": 47.793346544161544,
+                            "height": 21.246857993687755,
+                            "rotation": 0,
+                            "text": [
+                                "をすると、 「そう、じゃ、うちへ朝食にでもいらしたら?」と、あっさり受け入れてくれた。約束の朝、夫と私はニューヨークの観光名所にもなっている住所へたどり着き、そのあまりに重厚な建物を見上げると、まるで歴史上の人物にでも会いに行くような、超現実的な感覚に包まれた。エレベーターで上層階へ昇る私の手には、花束の代わりに、ミニチュアサイズのりんごを20個ほど敷き詰めたバスケットが握られていた。なんだか赤頭巾ちゃんか、白雪姫の継母のように。やがて大きな扉をノックすると、中から想像以上に華奢な女性……洋子さんが笑顔で「いらっしゃい」と迎えてくれた。セントラルパークを見渡す広間や、ジョンが名曲 「IMAGINE」で奏でた白いピアノに圧倒されつつ、キッチンの一角にあるブレックファストテーブルへ案内され、果物やトースト、卵料理にコーヒーなどの温かいもてなしに、少しずつ緊張もほぐれていった。さらに、自分たちの生い立ち"
+                            ]
+                        },
+                        "id": "tgoIN3fOQB",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.441627439073349,
+                            "y": 62.987718693445906,
+                            "width": 47.71247793748785,
+                            "height": 21.37601822465242,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "P4qeoU5PYr",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 11.441627439073349,
+                            "y": 62.987718693445906,
+                            "width": 47.71247793748785,
+                            "height": 21.37601822465242,
+                            "rotation": 0,
+                            "text": [
+                                "や馴れ初め、これから数ヶ月かけてアメリカ大陸を横断する旅の計画など、洋子さんは親身に耳を傾けてくれ 「こうして世界中を旅できる私たちはとても恵まれている。だからあなたたちも、あらゆるものをしっかり見て、感謝を忘れず成長していって」と語ってくれた。そして、「お母様もお元気? よろしく伝えてね。彼女とは繫がりを感じているの」 と懐かしそうに微笑んだ。その瞬間、洋子さんから届いた手紙に「私たちは似てるわね。魔女であるところが」と書かれていたと、むかし母から聞いたことを思い出した。 \\nあれから23年が経ち、母は亡くなる2カ月ほど前に仕事でニューヨークを訪れた際、 洋子さんに会いに行った。\\n「今日はあなたにお別れを言いにきたの」と母は告げたという。 \\n今年で7回忌を迎える晩夏、ロンドンにいた私はTate Modernで開催されていた、70年に及ぶ創作活動を祝福する 『Yoko Ono"
+                            ]
+                        },
+                        "id": "P4qeoU5PYr",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.98746222373308,
+                            "y": 93.34762672259616,
+                            "width": 2.0998181304457404,
+                            "height": 1.0207061645099316,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "01yJiyOIpQ",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.98746222373308,
+                            "y": 93.34762672259616,
+                            "width": 2.0998181304457404,
+                            "height": 1.0207061645099316,
+                            "rotation": 0,
+                            "text": [
+                                "042"
+                            ]
+                        },
+                        "id": "01yJiyOIpQ",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-17T01:43:34.824530Z",
+                "updated_at": "2025-05-17T02:34:48.577922Z",
+                "draft_created_at": "2025-05-17T01:34:25.377630Z",
+                "lead_time": 33592.41,
+                "prediction": {},
+                "result_count": 6,
+                "unique_id": "a620402a-69b9-4309-a15b-8858d173f3a8",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 13,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "d6e9bc59-fg2410_042.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/d6e9bc59-fg2410_042.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T14:59:16.915072Z",
+        "updated_at": "2025-05-17T02:34:48.727837Z",
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 14,
+        "annotations": [
+            {
+                "id": 13,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.607202934258352,
+                            "y": 16.02354358693899,
+                            "width": 49.956041626998704,
+                            "height": 55.87667866001683,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "ZLYMf_jxxG",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 13.818693715486141,
+                            "y": 72.47062563616421,
+                            "width": 34.57117745855744,
+                            "height": 1.8437598710207794,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "InfoBox"
+                            ]
+                        },
+                        "id": "Ktr5PeJKFk",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 13.818693715486141,
+                            "y": 72.47062563616421,
+                            "width": 34.57117745855744,
+                            "height": 1.8437598710207794,
+                            "rotation": 0,
+                            "text": [
+                                "《Soundless Music》Yoko Ono Cover of Soundless Music, 1952 Handwritten manuscript, ink on paper Photographer=Isabel Asha Penzlien"
+                            ]
+                        },
+                        "id": "Ktr5PeJKFk",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 18.916271551642495,
+                            "y": 75.8146238036248,
+                            "width": 37.42679317130296,
+                            "height": 5.230455634106363,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "ZXRyx3eU82",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 18.916271551642495,
+                            "y": 75.8146238036248,
+                            "width": 37.42679317130296,
+                            "height": 5.230455634106363,
+                            "rotation": 0,
+                            "text": [
+                                "ヨーコ・オノ《無音の樂曲》\\n19歳、当時通っていた学習院大学時代の稀少な作品。「詩でも小説でもなく、空想散文のようで、のちにアート界に影響を与えた《グレープフルーツ》の原型ともいえる作品。目に見えないものをすくい上げていくアーティストとしての出発点を見るようで、高揚感を覚えます」"
+                            ]
+                        },
+                        "id": "ZXRyx3eU82",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 74.81314897704685,
+                            "y": 16.272941966437287,
+                            "width": 13.777422781786314,
+                            "height": 21.231165025625536,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "sr4Q_RulJh",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 74.81314897704685,
+                            "y": 16.272941966437287,
+                            "width": 13.777422781786314,
+                            "height": 21.231165025625536,
+                            "rotation": 0,
+                            "text": [
+                                "Music of the Mind 展』を体感することが叶った。言葉、音、映像、絵画、オブジェなどの作品に宿った彼女の精神が、いきいきと旅をしつづけている様を目の当たりにした。その佇まいは、ことのほか軽やかで、ウィットに富み、理知的で、平等で、慈愛に満ち、"
+                            ]
+                        },
+                        "id": "sr4Q_RulJh",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 74.70551286156416,
+                            "y": 39.65301033473746,
+                            "width": 13.885058897269015,
+                            "height": 21.145208891918557,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "Cp9oW931rx",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 74.70551286156416,
+                            "y": 39.65301033473746,
+                            "width": 13.885058897269015,
+                            "height": 21.145208891918557,
+                            "rotation": 0,
+                            "text": [
+                                "信じること、 夢みることの切実さを、私たちの心に種植えする。\\n「PEACE IS POWER 」「平和は力」 という標語アートは、世界中の言語で展示されていた。戦後79年を迎える日本を、そしてこの瞬間も戦火を鎮めない国々を、洋子さんは今ど"
+                            ]
+                        },
+                        "id": "Cp9oW931rx",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 86.8683939111099,
+                            "y": 63.20499097045163,
+                            "width": 1.614541732240582,
+                            "height": 17.44909514251816,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "GSPTzccQL2",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 86.8683939111099,
+                            "y": 63.20499097045163,
+                            "width": 1.614541732240582,
+                            "height": 17.44909514251816,
+                            "rotation": 0,
+                            "text": [
+                                "んな眼差しで見つめているのだろう。"
+                            ]
+                        },
+                        "id": "GSPTzccQL2",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 74.65197784394618,
+                            "y": 63.03752180886715,
+                            "width": 9.219021160802725,
+                            "height": 21.56975857109942,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "J1OjGWM4tM",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 74.65197784394618,
+                            "y": 63.03752180886715,
+                            "width": 9.219021160802725,
+                            "height": 21.56975857109942,
+                            "rotation": 0,
+                            "text": [
+                                "うちだややこ◯東京都生まれ。両親は樹木希林と内田裕也。文筆家、翻訳家、ナレーター。幼いころから美術に惹かれ、テレビ番組「no art, no life」（NHK Eテレ）のナレーションを務めるなどアート関連の仕事も多い。著書に『BLANK PAGE 空っぽを満たす旅』（文藝春秋）など。2024年に「戦没画学生慰霊美術館 無言館」の共同館主に就任。"
+                            ]
+                        },
+                        "id": "J1OjGWM4tM",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.789496664443588,
+                            "y": 93.31403204344984,
+                            "width": 2.3737074518082224,
+                            "height": 1.0207061645099174,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "__zdzRgics",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.789496664443588,
+                            "y": 93.31403204344984,
+                            "width": 2.3737074518082224,
+                            "height": 1.0207061645099174,
+                            "rotation": 0,
+                            "text": [
+                                "043"
+                            ]
+                        },
+                        "id": "__zdzRgics",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "Ktr5PeJKFk",
+                        "to_id": "ZLYMf_jxxG",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "Info"
+                        ]
+                    },
+                    {
+                        "from_id": "ZXRyx3eU82",
+                        "to_id": "ZLYMf_jxxG",
+                        "type": "relation",
+                        "direction": "right",
+                        "labels": [
+                            "describes"
+                        ]
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-17T02:13:23.499646Z",
+                "updated_at": "2025-05-17T02:35:13.166531Z",
+                "draft_created_at": "2025-05-17T01:55:02.006785Z",
+                "lead_time": 1809.086,
+                "prediction": {},
+                "result_count": 9,
+                "unique_id": "9e8c5adf-78f1-4a68-87bf-7a4afcbca118",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 14,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "74df7eed-fg2410_043.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/74df7eed-fg2410_043.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T14:59:16.915072Z",
+        "updated_at": "2025-05-17T02:35:13.249305Z",
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 15,
+        "annotations": [
+            {
+                "id": 8,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 27.364847898758143,
+                            "y": 42.979734808869615,
+                            "width": 45.85298519563261,
+                            "height": 48.30734714332613,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "m3N6kHsQEu",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 74.19758062811293,
+                            "y": 74.27286021613332,
+                            "width": 4.0100135540681805,
+                            "height": 17.27311879166848,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Caption"
+                            ]
+                        },
+                        "id": "FLzGk5DItF",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 81.2126052975641,
+                            "y": 19.041356832359316,
+                            "width": 7.240975041563843,
+                            "height": 27.505962786235525,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "H1fXOqRblY",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 81.2126052975641,
+                            "y": 19.041356832359316,
+                            "width": 7.240975041563843,
+                            "height": 27.505962786235525,
+                            "rotation": 0,
+                            "text": [
+                                "「㐂川」と辿る\\n浪速割烹のいま、むかし"
+                            ]
+                        },
+                        "id": "H1fXOqRblY",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 67.12205927073718,
+                            "y": 19.275782651560185,
+                            "width": 13.307737914225427,
+                            "height": 25.396130413427684,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "4KAJuI3Skh",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 67.12205927073718,
+                            "y": 19.275782651560185,
+                            "width": 13.307737914225427,
+                            "height": 25.396130413427684,
+                            "rotation": 0,
+                            "text": [
+                                "昔ながらの風情と石畳が残る大阪・法善寺横丁。\\nその一角で60年余り続く割烹「㐂川」が、\\n現代の味に加えて、1965年の\\n創業当時の料理を再現。\\n今昔のひと皿を通して、浪速割烹が\\n紡いできた歴史と、その技をお届けします。"
+                            ]
+                        },
+                        "id": "4KAJuI3Skh",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 58.804723074346285,
+                            "y": 19.275782651560185,
+                            "width": 6.751719971187896,
+                            "height": 18.988491355270547,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "pyWq6eCQjX",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 58.804723074346285,
+                            "y": 19.275782651560185,
+                            "width": 6.751719971187896,
+                            "height": 18.988491355270547,
+                            "rotation": 0,
+                            "text": [
+                                "［十月］\\n神の月の松茸"
+                            ]
+                        },
+                        "id": "pyWq6eCQjX",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 53.814321356511755,
+                            "y": 19.11949877209294,
+                            "width": 4.109742591157847,
+                            "height": 19.769910752606783,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "InfoBox"
+                            ]
+                        },
+                        "id": "cpbrBSY-Xz",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 53.814321356511755,
+                            "y": 19.11949877209294,
+                            "width": 4.109742591157847,
+                            "height": 19.769910752606783,
+                            "rotation": 0,
+                            "text": [
+                                "文＝上野修三　料理＝上野 修\\n撮影＝高嶋克郎　題字＝鈴木葩光　編集・文＝八木あきほ"
+                            ]
+                        },
+                        "id": "cpbrBSY-Xz",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.856317021344449,
+                            "y": 93.25626004676688,
+                            "width": 2.3087956826453127,
+                            "height": 1.0674399253278324,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "pgjwaWqbfw",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 8.856317021344449,
+                            "y": 93.25626004676688,
+                            "width": 2.3087956826453127,
+                            "height": 1.0674399253278324,
+                            "rotation": 0,
+                            "text": [
+                                "037"
+                            ]
+                        },
+                        "id": "pgjwaWqbfw",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "FLzGk5DItF",
+                        "to_id": "m3N6kHsQEu",
+                        "type": "relation",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-16T15:41:32.261132Z",
+                "updated_at": "2025-05-17T02:35:34.507178Z",
+                "draft_created_at": "2025-05-16T15:24:30.188673Z",
+                "lead_time": 1077.1170000000002,
+                "prediction": {},
+                "result_count": 8,
+                "unique_id": "aff5ace2-168b-4cca-9ca2-0cdf38ed2692",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 15,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "55ee77dc-fg2410_037.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/55ee77dc-fg2410_037.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T14:59:16.915072Z",
+        "updated_at": "2025-05-17T02:35:34.657196Z",
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 16,
+        "annotations": [
+            {
+                "id": 9,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 44.51788791328455,
+                            "y": 19.490299167020346,
+                            "width": 45.58389490692585,
+                            "height": 52.523495501653805,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "Image"
+                            ]
+                        },
+                        "id": "YfInBvLRVV",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 54.46738791999623,
+                            "y": 73.34946629481254,
+                            "width": 26.953506604346888,
+                            "height": 18.327836773886236,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "TextBlock"
+                            ]
+                        },
+                        "id": "B1qLm0nwdJ",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 54.46738791999623,
+                            "y": 73.34946629481254,
+                            "width": 26.953506604346888,
+                            "height": 18.327836773886236,
+                            "rotation": 0,
+                            "text": [
+                                "一九六五年\\n徳利蒸し\\n瓢簞形の徳利が三段に分かれる青磁の器でいただくのは、松茸が主役の蒸し物。当時は土瓶蒸しに劣らない松茸料理の定番だったという。瓢簞は、豊臣秀吉が用いた馬印が千成瓢簞であったことから、大阪では昔から重宝されているモチーフでもある。器に昆布出汁を張り、松茸やくえ、海老、しめじ、焼き餅を入れて蒸した下段、ねぎともみじおろしの中段、そしてすだちをたっぷり搾った自家製ポン酢の上段という三段構成。れんげは「今右衛門窯」の有田焼。"
+                            ]
+                        },
+                        "id": "B1qLm0nwdJ",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.89789635857159,
+                            "y": 93.33952773865694,
+                            "width": 2.2646082054654926,
+                            "height": 0.9703999321161945,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "PageIndex"
+                            ]
+                        },
+                        "id": "UNl57ppcwt",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 1463,
+                        "original_height": 1832,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 88.89789635857159,
+                            "y": 93.33952773865694,
+                            "width": 2.2646082054654926,
+                            "height": 0.9703999321161945,
+                            "rotation": 0,
+                            "text": [
+                                "038"
+                            ]
+                        },
+                        "id": "UNl57ppcwt",
+                        "from_name": "text_content",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "from_id": "B1qLm0nwdJ",
+                        "to_id": "YfInBvLRVV",
+                        "type": "relation",
+                        "direction": "right"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-16T15:46:49.348468Z",
+                "updated_at": "2025-05-17T02:35:59.497479Z",
+                "draft_created_at": "2025-05-16T15:42:19.626658Z",
+                "lead_time": 405.135,
+                "prediction": {},
+                "result_count": 4,
+                "unique_id": "8b7eabfe-afd5-4f7d-a1f0-e5d297b3100d",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 16,
+                "project": 1,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "64b5d040-fg2410_038.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "\/data\/upload\/1\/64b5d040-fg2410_038.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-05-16T14:59:16.915072Z",
+        "updated_at": "2025-05-17T02:35:59.720197Z",
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 1,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]

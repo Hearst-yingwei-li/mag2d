@@ -1,0 +1,105 @@
+{
+    "file_name": "fg2410_full_article.pdf",
+    "article_title": "有吉佐和子と旅する和歌山",
+    "article_format": "standard",
+    "pages": [
+      {
+        "page_number": 1,
+        "title": {
+          "text": "有吉佐和子が愛した和歌山へ",
+          "bbox": [60, 100, 450, 160]
+        },
+        "images": [
+          {
+            "image_id": "img_pg1_001.jpg",
+            "bbox": [60, 180, 540, 360]
+          }
+        ],
+        "image_text_links": [
+          {
+            "image_bbox": [60, 180, 540, 360],
+            "text": "没後40年記念特集 作家・木内昇さんと巡る"
+          }
+        ],
+        "main_text_blocks": [
+          {
+            "text": "1959年、『紀ノ川』が『婦人画報』に連載され...",
+            "bbox": [60, 400, 530, 700]
+          }
+        ]
+      },
+      {
+        "page_number": 2,
+        "images": [
+          {
+            "image_id": "img_pg2_001.jpg",
+            "bbox": [70, 220, 500, 370]
+          }
+        ],
+        "image_text_links": [
+          {
+            "image_bbox": [70, 220, 500, 370],
+            "text": "和歌山市立有吉佐和子記念館の展示コーナー"
+          }
+        ],
+        "main_text_blocks": [
+          {
+            "text": "山河が、朗らかな光をたたえている。和歌山の風土に佇んで...",
+            "bbox": [60, 390, 530, 700]
+          }
+        ]
+      },
+      {
+        "page_number": 3,
+        "images": [
+          {
+            "image_id": "img_pg3_001.jpg",
+            "bbox": [80, 200, 520, 380]
+          }
+        ],
+        "image_text_links": [
+          {
+            "image_bbox": [80, 200, 520, 380],
+            "text": "慈尊院と乳房形絵馬。『紀ノ川』にも登場。"
+          }
+        ],
+        "main_text_blocks": [
+          {
+            "text": "助左衛門や青洲の面影を訪ねて足を延ばすと...",
+            "bbox": [60, 400, 530, 700]
+          }
+        ]
+      },
+      {
+        "page_number": 4,
+        "main_text_blocks": [
+          {
+            "text": "華岡青洲の妻』では、青洲が麻酔薬の治験を...",
+            "bbox": [60, 100, 530, 700]
+          }
+        ]
+      },
+      {
+        "page_number": 5,
+        "images": [
+          {
+            "image_id": "img_pg5_001.jpg",
+            "bbox": [70, 180, 520, 360]
+          }
+        ],
+        "image_text_links": [
+          {
+            "image_bbox": [70, 180, 520, 360],
+            "text": "蜜柑農園の光景。『有田川』の取材地。"
+          }
+        ],
+        "main_text_blocks": [
+          {
+            "text": "千代が暮らした地・有田川流域では今もみかん栽培が盛ん。",
+            "bbox": [60, 390, 530, 700]
+          }
+        ]
+      }
+    ]
+  }
+  
