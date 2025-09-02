@@ -1,0 +1,397 @@
+{
+  "id": 85,
+  "data": {
+    "image": "/data/upload/1/3d26c436-fg2410_102.jpg"
+  },
+  "annotations": [
+    {
+      "id": 70,
+      "result": [
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 82.04716931843677,
+            "y": 9.071794412301044,
+            "width": 6.22688271387553,
+            "height": 26.477847347756757,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Title"
+            ]
+          },
+          "id": "12u-5QZ7Bt",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 82.04716931843677,
+            "y": 9.071794412301044,
+            "width": 6.22688271387553,
+            "height": 26.477847347756757,
+            "rotation": 0,
+            "text": [
+              "日本人とバラ"
+            ]
+          },
+          "id": "12u-5QZ7Bt",
+          "from_name": "text_content",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.4612433972538,
+            "y": 8.912055936562032,
+            "width": 12.858108461119599,
+            "height": 27.059068387097767,
+            "rotation": 0,
+            "rectanglelabels": [
+              "TextBlock"
+            ]
+          },
+          "id": "Ng6ORmO3Vf",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 68.4612433972538,
+            "y": 8.912055936562032,
+            "width": 12.858108461119599,
+            "height": 27.059068387097767,
+            "rotation": 0,
+            "text": [
+              "日本では、いつからバラが存在していたのでしょう。日本原種のバラが欧米のバラと交配されて新たな品種を生んだ歴史や、時代ごとの愛でられ方など、バラの育種に長年関わってきた矢口信好さんに伺いました。\\n お話を伺ったのは……\\n 矢口信好さん（元「京成バラ園」取締役・バラ園芸の指導講師）"
+            ]
+          },
+          "id": "Ng6ORmO3Vf",
+          "from_name": "text_content",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 66.27779101706368,
+            "y": 8.912055936562032,
+            "width": 1.455634920126755,
+            "height": 9.945337784279372,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Entitle"
+            ]
+          },
+          "id": "pSdPMOjUYq",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 66.27779101706368,
+            "y": 8.912055936562032,
+            "width": 1.455634920126755,
+            "height": 9.945337784279372,
+            "rotation": 0,
+            "text": [
+              "編集・文＝吉岡博恵（本誌）"
+            ]
+          },
+          "id": "pSdPMOjUYq",
+          "from_name": "text_content",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 65.14563052363175,
+            "y": 40.23341194549382,
+            "width": 16.011984121394242,
+            "height": 7.103812703056689,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Caption"
+            ]
+          },
+          "id": "S5UbAVr7yO",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 65.14563052363175,
+            "y": 40.23341194549382,
+            "width": 16.011984121394242,
+            "height": 7.103812703056689,
+            "rotation": 0,
+            "text": [
+              "牧野富太郎《富士薔薇》\\n 「霊峰の氣を受けて咲く富士薔薇」との記述が。「富士いばら」「フジイバラ」と命名。直径は15センチほど。高さ2～3メートルの落葉低木で主幹は太く小高木状になる。奇数羽状複葉が特徴。"
+            ]
+          },
+          "id": "S5UbAVr7yO",
+          "from_name": "text_content",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 12.823642005742558,
+            "y": 65.22591663715691,
+            "width": 8.248597880718238,
+            "height": 0.7749613857880036,
+            "rotation": 0,
+            "rectanglelabels": [
+              "InfoBox"
+            ]
+          },
+          "id": "GwWr7rDMdG",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 12.823642005742558,
+            "y": 65.22591663715691,
+            "width": 8.248597880718238,
+            "height": 0.7749613857880036,
+            "rotation": 0,
+            "text": [
+              "提供：高知県立牧野植物園"
+            ]
+          },
+          "id": "GwWr7rDMdG",
+          "from_name": "text_content",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 12.90557024637641,
+            "y": 10.934739260879766,
+            "width": 50.55668344222683,
+            "height": 53.7999440872025,
+            "rotation": 0,
+            "rectanglelabels": [
+              "Image"
+            ]
+          },
+          "id": "0kQ-vprGhc",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 66.97659910340707,
+            "y": 50.28781945486849,
+            "width": 20.918904040388966,
+            "height": 18.306594719372235,
+            "rotation": 0,
+            "rectanglelabels": [
+              "TextBlock"
+            ]
+          },
+          "id": "Gze2uZPl4s",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 66.97659910340707,
+            "y": 50.28781945486849,
+            "width": 20.918904040388966,
+            "height": 18.306594719372235,
+            "rotation": 0,
+            "text": [
+              "世界で初めての育種家はあのジョゼフィーヌ\\n 　バラの歴史は古く、紀元前２000年、古代メソポタミアのバビロニアではすでに人類によって初めてのバラ栽培が行われていたという。同時期、クレタ島のミノス文明王朝時代の壁画にはバラが描かれ、中国では唐時代にやはり壁画や陶器などに美しいバラが描かれている。そして18世紀のフランス革命期、ナポレオン"
+            ]
+          },
+          "id": "Gze2uZPl4s",
+          "from_name": "text_content",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 11.346981247880612,
+            "y": 70.9325757991823,
+            "width": 76.52927810820373,
+            "height": 18.30865647958801,
+            "rotation": 0,
+            "rectanglelabels": [
+              "TextBlock"
+            ]
+          },
+          "id": "Z54KX8I3IK",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 11.346981247880612,
+            "y": 70.9325757991823,
+            "width": 76.52927810820373,
+            "height": 18.30865647958801,
+            "rotation": 0,
+            "text": [
+              "の皇后ジョゼフィーヌは、バラ好きが高じてマルメゾン宮殿に世界中からバラの原種や園芸種を集め、人工交配させた世界最初の“育種家”といわれている。始まりは25品種程度だったバラを、30年ほどかけて1829年には4000品種に増やしたという。\\n 　日本にも、古来15～20種ほどの原種のバラが自生していたとされ、最古の記録としては1300年前、奈良時代の『常陸国風土記』がある。朝廷に従わない豪族を退治するのに、茨で城を覆い侵入を防いだという由来があることから、常陸は明治維新後に「茨城」と命名された。茨とは原種の野ばらのことであり、特徴として花は2センチ程度の大きさで房には30～40ほどの“蕾”がつく。茨城県の県章は開き始めたバラの蕾をデザインしたもので、県花はバラであることは多くの方が知っていることであろう。\\n 　ほか、『万葉集』には「うまら」として、『枕草子』には「さうひ」としてバラが登場する。『源氏物語』の記述「階の底のさうひ春秋よりもしめやかに咲き」などから推測すると、すでに日本人の暮らしのなかでバラが愛でられる存在であったことが伝わってくる。さらに、古代種の原種のバラであれば一度しか咲かないため、このころすでに中国・雲南省や四川省から四季咲きのバラが到来していたのではないかと推測する研究者もいる。\\n 　鎌倉時代には、日本最古とされるバラの大和絵が『春日権現験記』に残されている。これは、春日大社の霊験を描く20巻の絵巻物で、狩衣や十二単の貴族たちが集う屋敷の庭に植えられた赤いバラが"
+            ]
+          },
+          "id": "Z54KX8I3IK",
+          "from_name": "text_content",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 88.92546269411643,
+            "y": 93.18834762331902,
+            "width": 2.2055074547374858,
+            "height": 1.1741839178605886,
+            "rotation": 0,
+            "rectanglelabels": [
+              "PageIndex"
+            ]
+          },
+          "id": "_jNEJlL-_c",
+          "from_name": "bbox",
+          "to_name": "image",
+          "type": "rectanglelabels",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1463,
+          "original_height": 1832,
+          "image_rotation": 0,
+          "value": {
+            "x": 88.92546269411643,
+            "y": 93.18834762331902,
+            "width": 2.2055074547374858,
+            "height": 1.1741839178605886,
+            "rotation": 0,
+            "text": [
+              "102"
+            ]
+          },
+          "id": "_jNEJlL-_c",
+          "from_name": "text_content",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "from_id": "GwWr7rDMdG",
+          "to_id": "0kQ-vprGhc",
+          "type": "relation",
+          "direction": "right",
+          "labels": [
+            "Info"
+          ]
+        },
+        {
+          "from_id": "S5UbAVr7yO",
+          "to_id": "0kQ-vprGhc",
+          "type": "relation",
+          "direction": "right",
+          "labels": [
+            "describes"
+          ]
+        }
+      ],
+      "created_username": " yingwei.li@hearst.co.jp, 1",
+      "created_ago": "3 weeks, 2 days",
+      "completed_by": {
+        "id": 1,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "yingwei.li@hearst.co.jp",
+        "initials": "yi"
+      },
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2025-05-24T05:24:53.947602Z",
+      "updated_at": "2025-05-24T05:24:53.947602Z",
+      "draft_created_at": "2025-05-24T05:02:33.025714Z",
+      "lead_time": 1580.266,
+      "import_id": null,
+      "last_action": null,
+      "bulk_created": false,
+      "task": 85,
+      "project": 1,
+      "updated_by": 1,
+      "parent_prediction": null,
+      "parent_annotation": null,
+      "last_created_by": null
+    }
+  ],
+  "predictions": []
+}

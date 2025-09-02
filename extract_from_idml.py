@@ -12,7 +12,7 @@ import json
 def parse_transform_matrix(transform_str):
     if not transform_str: return (1.0, 0.0, 0.0, 1.0, 0.0, 0.0)
     try:
-        parts = list(map(float, transform_str.split()));
+        parts = list(map(float, transform_str.split()))
         if len(parts) == 6: return tuple(parts)
     except ValueError: pass
     return (1.0, 0.0, 0.0, 1.0, 0.0, 0.0)
@@ -20,7 +20,7 @@ def parse_transform_matrix(transform_str):
 def parse_geometric_bounds(bounds_str):
     if not bounds_str: return (0.0, 0.0, 0.0, 0.0)
     try:
-        parts = list(map(float, bounds_str.split()));
+        parts = list(map(float, bounds_str.split()))
         if len(parts) == 4: return tuple(parts) # y1, x1, y2, x2
     except ValueError: pass
     return (0.0, 0.0, 0.0, 0.0)
@@ -70,8 +70,8 @@ class PageGeometricInfo:
         print(f"  Page '{self.name}' (ID: {self.id}): "
               # f"LocalTransform={page_local_matrix}, SpreadBaseM={spread_base_transform_matrix}, "
               f"FinalGlobalMatrix={tuple(f'{x:.2f}' for x in self.global_matrix)}, "
-              f"Global AABB=(x: {self.global_aabb['x1']:.2f}-{self.global_aabb['x2']:.2f}, "
-              f"y: {self.global_aabb['y1']:.2f}-{self.global_aabb['y2']:.2f})")
+              f"Global AABB=(x1: {self.global_aabb['x1']:.2f}- x2: {self.global_aabb['x2']:.2f}, "
+              f"y1: {self.global_aabb['y1']:.2f}- y2:{self.global_aabb['y2']:.2f})")
 
 
 def get_local_bounds_from_path_geometry(tf_element):
@@ -159,7 +159,8 @@ def process_spread_element_recursively(element, parent_element, current_accumula
             # else: print(f"{indent}  TextFrame ID: {element_id} no PathGeometry or GeoBounds. Local bounds 0.")
     else: determined_local_bounds = parse_geometric_bounds(element.get("GeometricBounds"))
     
-    item_global_aabb={"x1":0.0,"y1":0.0,"x2":0.0,"y2":0.0}; item_center_x,item_center_y = item_global_matrix[4],item_global_matrix[5]
+    item_global_aabb={"x1":0.0,"y1":0.0,"x2":0.0,"y2":0.0} 
+    item_center_x,item_center_y = item_global_matrix[4],item_global_matrix[5]
     if determined_local_bounds != (0.0,0.0,0.0,0.0):
         igc = get_global_corners(determined_local_bounds,item_global_matrix)
         item_global_aabb = get_axis_aligned_bounding_box(igc)
@@ -187,9 +188,9 @@ def process_spread_element_recursively(element, parent_element, current_accumula
         elif story_id: print(f"{indent}  ⚠️ TF {element_id} (Story {story_id}) at C:({item_center_x:.1f},{item_center_y:.1f}) NOT assigned to page.")
     elif element_tag_local == "Image":
         if assigned_page_id:
-            le=element.find('.//{*}Link');
+            le=element.find('.//{*}Link')
             if le is not None:
-                uri=le.get("LinkResourceURI");
+                uri=le.get("LinkResourceURI")
                 if uri:
                     pd=pages_content_map.get(assigned_page_id)
                     if pd:
@@ -210,7 +211,7 @@ def get_page_content_from_spread(spread_path, stories_dir, story_cache): # MODIF
                 found_spreads = [el for el in root.iter() if el.tag.endswith('Spread') and any(c.tag.split('}')[-1]=='Page' for c in el)]
                 if found_spreads: spread_element = found_spreads[0]
                 else: print(f"  ❌ No main <Spread> with <Page> children in {os.path.basename(spread_path)}"); return {}
-    except Exception as e: print(f"  ❌ Error parsing {spread_path}: {e}"); return {}
+    except Exception as e: print(f"  ❌ Error parsing {spread_path}: {e}"); return {}, []
 
     current_spread_pages_content = {}; geometric_pages = []
     spread_base_matrix_str = spread_element.get("ItemTransform") # Get Spread's own transform
@@ -233,7 +234,7 @@ def get_page_content_from_spread(spread_path, stories_dir, story_cache): # MODIF
         # Pass spread_base_matrix as the initial current_accumulated_matrix for its direct children
         process_spread_element_recursively(child_el,spread_element,spread_base_matrix,geometric_pages,
                                            current_spread_pages_content,stories_dir,story_cache,0)
-    return current_spread_pages_content
+    return current_spread_pages_content, geometric_pages
 
 def find_spread_files(spreads_dir):
     if not os.path.isdir(spreads_dir): return []
@@ -244,11 +245,17 @@ def main():
     parser.add_argument("idml_file", help="Path to .idml file")
     parser.add_argument("--output_json", help="Path to .idml file")
     args = parser.parse_args()
+    idml_file = args.idml_file
+    output_file_path = args.output_json
+    extract(idml_file=idml_file,output_file_path=output_file_path)
+    pass
+
+def extract(idml_file,output_file_path):
     temp_dir_base = os.path.join(tempfile.gettempdir(), "idml_extractor_debug")
-    json_file_path = args.output_json
-    os.makedirs(temp_dir_base, exist_ok=True); temp_dir = tempfile.mkdtemp(prefix="idml_", dir=temp_dir_base)
-    print(f"⏳ Extracting '{args.idml_file}' to: {temp_dir}")
-    if not extract_idml(args.idml_file, temp_dir):
+    os.makedirs(temp_dir_base, exist_ok=True)
+    temp_dir = tempfile.mkdtemp(prefix="idml_", dir=temp_dir_base)
+    print(f"⏳ Extracting '{idml_file}' to: {temp_dir}")
+    if not extract_idml(idml_file, temp_dir):
         if os.path.exists(temp_dir): shutil.rmtree(temp_dir)
         return
     spreads_dir = os.path.join(temp_dir, "Spreads"); stories_dir = os.path.join(temp_dir, "Stories")
@@ -256,7 +263,9 @@ def main():
         print(f"❌ Critical: 'Spreads' folder missing at '{spreads_dir}'.")
         if os.path.exists(temp_dir): shutil.rmtree(temp_dir)
         return
-    all_page_data_by_id = {}; story_cache = {} 
+    all_page_data_by_id = {}
+    story_cache = {} 
+    all_page_geometries = {}
     spread_files = find_spread_files(spreads_dir)
     if not spread_files:
         print(f"❌ No spread files found in {spreads_dir}.")
@@ -265,7 +274,12 @@ def main():
     for spread_file_path in spread_files:
         spread_name = os.path.basename(spread_file_path)
         print(f"\n📄 Processing Spread File: {spread_name}")
-        content_from_this_spread = get_page_content_from_spread(spread_file_path, stories_dir, story_cache)
+        content_from_this_spread, geoinfo_from_this_spread = get_page_content_from_spread(spread_file_path, stories_dir, story_cache)
+        
+        for page_info in geoinfo_from_this_spread: # Store geometry info
+            if page_info.id not in all_page_geometries:
+                all_page_geometries[page_info.id] = page_info
+                
         for pid, pdata_in_spread in content_from_this_spread.items():
             if pid not in all_page_data_by_id: all_page_data_by_id[pid] = pdata_in_spread
             else: 
@@ -281,7 +295,17 @@ def main():
     else:
         final_sorted_page_ids = sorted(all_page_data_by_id.keys(), key=lambda pid_key: all_page_data_by_id[pid_key]["name"])
         for pid in final_sorted_page_ids:
-            pdata = all_page_data_by_id[pid]; print(f"\n--- Page \"{pdata['name']}\" (ID: {pid}) ---")
+            pdata = all_page_data_by_id[pid]; 
+            print(f"\n--- Page \"{pdata['name']}\" (ID: {pid}) ---")
+            page_geo_info = all_page_geometries.get(pid) # Get geometry info for this page
+            if not page_geo_info:
+                print(f"⚠️ Warning: Geometry info not found for Page ID {pid}. Skipping coordinate conversion for this page.")
+                page_offset_x, page_offset_y = 0, 0
+            else:
+                page_global_bounds = page_geo_info.global_aabb
+                page_offset_x = page_global_bounds["x1"]
+                page_offset_y = page_global_bounds["y1"]
+                
             if pdata["texts"]:
                 print("📝 Texts:")
                 for t_item in pdata["texts"]:
@@ -307,6 +331,18 @@ def main():
                                        key=lambda pid_key: all_page_data_by_id[pid_key]["name"])
         for pid in final_sorted_page_ids:
             pdata = all_page_data_by_id[pid]
+            
+            page_geo_info = all_page_geometries.get(pid)
+            if not page_geo_info:
+                print(f"⚠️ Warning: Geometry info not found for Page ID {pid}. Skipping coordinate conversion for this page.")
+                page_offset_x, page_offset_y = 0, 0
+            else:
+                page_global_bounds = page_geo_info.global_aabb
+                page_offset_x = page_global_bounds["x1"]
+                page_offset_y = page_global_bounds["y1"]
+                page_width = page_global_bounds["x2"] - page_global_bounds["x1"] 
+                page_height = page_global_bounds["y2"] - page_global_bounds["y1"] 
+                
             page_output = {
                 "page_name": pdata["name"], # Using 'page_name' as key
                 "page_id": pid, # Also including the internal ID
@@ -314,27 +350,39 @@ def main():
                 "texts": []
             }
             for img_item in pdata["images"]:
+                item_global_bounds = img_item["global_bounds"]
                 page_output["images"].append({
                     "URI": img_item["uri"],
                     "ImageId": img_item['image_element_id'],
-                    "Bounds": img_item["global_bounds"] # Already a dict {"x1":..}
+                    "Bounds": { # Convert to page-relative coordinates
+                        "x1": item_global_bounds["x1"] - page_offset_x, "y1": item_global_bounds["y1"] - page_offset_y,
+                        "x2": item_global_bounds["x2"] - page_offset_x, "y2": item_global_bounds["y2"] - page_offset_y,
+                    },
+                    "page_width":page_width,
+                    "page_height":page_height
                 })
             for t_item in pdata["texts"]:
+                item_global_bounds = t_item["global_bounds"]
                 page_output["texts"].append({
                     "Content": t_item["content"],
                     "TextId":t_item['text_frame_id'],
-                    "Bounds": t_item["global_bounds"] # Already a dict {"x1":..}
+                    "Bounds": { # Convert to page-relative coordinates
+                        "x1": item_global_bounds["x1"] - page_offset_x, "y1": item_global_bounds["y1"] - page_offset_y,
+                        "x2": item_global_bounds["x2"] - page_offset_x, "y2": item_global_bounds["y2"] - page_offset_y,
+                    },
+                    "page_width":page_width,
+                    "page_height":page_height
                 })
             output_data["pages"].append(page_output)
 
     # --- Write to JSON file ---
     # json_file_path = 'output.json'
     try:
-        with open(json_file_path, 'w', encoding='utf-8') as f:
+        with open(output_file_path, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, ensure_ascii=False, indent=4)
-        print(f"\n💾 Successfully wrote output to {json_file_path}")
+        print(f"\n💾 Successfully wrote output to {output_file_path}")
     except IOError as e:
-        print(f"\n❌ Error writing JSON to {json_file_path}: {e}")
+        print(f"\n❌ Error writing JSON to {output_file_path}: {e}")
         
     try: shutil.rmtree(temp_dir); print(f"🗑️ Temporary directory {temp_dir} removed.")
     except Exception as e: print(f"⚠️ Error removing {temp_dir}: {e}. Please remove manually.")
